@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@600&family=Questrial&display=swap');
+
+
+
+
+.App {
+  padding: 30px;
+  border-radius: 7px;
+  width: 20%;
+  height: 400px;
+  margin: 2% auto;
+  background-color: rgba(38, 116, 57, 0.7);
+  font-family: 'Questrial', sans-serif;
+  font-size: large;
+  
+  
+  
+}
+
+.delete{
+  width: 40%;
+  display: inline-block;
+  border-radius: 10px;
+ 
+
+}
+.input{
+  padding: 0px 0px 50px 0px;
+
+}
+h1{
+  
+  padding-top: 20px;
+  text-align: center;
+  font-family: 'Rampart One', cursive;
+
+}
+.add{
+  font-family: 'Questrial', sans-serif;
+  height: 30px;
+  width: 80px;
+  border-radius: 20px;
+  background-color: white;
+  font-weight: 900;
+  margin: 20px;
+
+}
